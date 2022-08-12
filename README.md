@@ -1,2 +1,2 @@
 # Nigeria-IGR
-Internally Generated Revenue Analysis application
+Internally Generated Revenue Analysis Application
